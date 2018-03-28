@@ -1,0 +1,3 @@
+C:\Users\bgonz\workspace\Unreal\Brandon-Shooter\Source\Shooter\Shooter.Build.cs
+C:\Users\bgonz\workspace\Unreal\Brandon-Shooter\Source\Shooter.Target.cs
+C:\Users\bgonz\workspace\Unreal\Brandon-Shooter\Source\ShooterEditor.Target.cs
